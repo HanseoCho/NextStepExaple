@@ -1,4 +1,7 @@
+package test;
+
 import org.junit.Test;
+import src.Calculator;
 
 /* JUnit4 설정법
  * junit4 라이브러리르 import한다.

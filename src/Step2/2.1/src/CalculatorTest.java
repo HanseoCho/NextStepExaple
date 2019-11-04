@@ -1,3 +1,7 @@
+package src;
+
+import java.util.Calendar;
+
 public class CalculatorTest {
     /* 2.1_2 테스트를 담당하는 별도의 클래스를 추가했지만 main() 메소드 하나에 프로덕션 코드의 여러 메소드를 동시에 테스트 하고있다.
      * 이는 프로덕션 코드의 복잡도가 증가하면 증가할수록, main() 메소드의 복잡도도 증가하고, 결과적으로 main()메소드를 유지하는 데 부담이 된다.

@@ -1,4 +1,8 @@
+package test;
+
 import org.junit.Test;
+import src.Calculator;
+
 import static org.junit.Assert.assertEquals;
 
 /* 2.2.2 결과값을 눈이 아닌 프로그램 통해 자동화

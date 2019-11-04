@@ -1,6 +1,9 @@
+package test;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import src.Calculator;
 
 import static org.junit.Assert.assertEquals;
 

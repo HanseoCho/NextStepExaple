@@ -38,7 +38,7 @@ public class StringCalculator {
         if (number < 0) {
             throw new RuntimeException();
         }
-        return number
+        return number;
     }
 
     private int sum(int[] values) {

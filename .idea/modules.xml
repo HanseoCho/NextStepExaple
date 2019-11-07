@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/src/Step2/Calculator/src/Step2/Calculator.iml" filepath="$PROJECT_DIR$/src/Step2/Calculator/src/Step2/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/NextStep.iml" filepath="$PROJECT_DIR$/NextStep.iml" />
       <module fileurl="file://$PROJECT_DIR$/src/Step2/2.1/Step2.iml" filepath="$PROJECT_DIR$/src/Step2/2.1/Step2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven/maven.iml" filepath="$PROJECT_DIR$/maven/maven.iml" />
     </modules>
   </component>
 </project>
